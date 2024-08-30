@@ -44,7 +44,7 @@ folium.Choropleth(
 seoul_m
 
 ```
-
+<img src = "https://teddylee777.github.io/images/2021-11-08/image-20211108010809526.png">
 
 ```python
 
