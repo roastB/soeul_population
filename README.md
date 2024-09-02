@@ -44,7 +44,7 @@ folium.Choropleth(
 seoul_m
 
 ```
-<img src = https://github.com/roastB/soeul_population/issues/2#issue-2499770087>
+<img src = "https://github.com/roastB/soeul_population/issues/2#issue-2499770087">
 
 ```python
 
