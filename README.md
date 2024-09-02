@@ -44,7 +44,7 @@ folium.Choropleth(
 seoul_m
 
 ```
-<img src = "https://github.com/roastB/soeul_population/issues/2#issue-2499770087">
+<img width="80%" src="https://github.com/roastB/soeul_population/issues/2#issue-2499770087">
 
 ```python
 
@@ -68,7 +68,7 @@ folium.Choropleth(
 seoul_m
 
 ```
-<img src = "https://github.com/roastB/soeul_population/issues/3#issue-2499772141">
+<img width="80%" src="https://github.com/roastB/soeul_population/issues/3#issue-2499772141">
 
 
 ## References
